@@ -1,0 +1,5 @@
+#!/bin/bash
+        cd /home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir
+        source enter
+        $INNOVUS_BIN -common_ui -win -files /home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/generated-scripts/open_chip.tcl
+                

@@ -1,0 +1,15 @@
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/ClockSourceAtFreqMHz.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/EICG_wrapper.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/GenericDigitalInIOCell.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/GenericDigitalOutIOCell.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/SimJTAG.cc
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/SimJTAG.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/SimTSI.cc
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/SimTSI.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/SimUART.cc
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/SimUART.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/plusarg_reader.v
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/remote_bitbang.cc
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/testchip_htif.cc
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/testchip_tsi.cc
+/home/adi/Desktop/tools/flows/chipyard/vlsi/generated-src/chipyard.harness.TestHarness.TinyRocketConfig/gen-collateral/uart.cc

@@ -1,0 +1,162 @@
+[
+    {
+        "SRAM1RW4096x8": [
+            {
+                "layer": "M4",
+                "direction": "horizontal",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "offset": -1192,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/dcache/data/data_arrays_0/data_arrays_0_ext/mem_0_0",
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/dcache/data/data_arrays_0/data_arrays_0_ext/mem_0_2"
+                ],
+                "inst_orientations": [
+                    "r0",
+                    "r0"
+                ]
+            },
+            {
+                "layer": "M5",
+                "direction": "vertical",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/dcache/data/data_arrays_0/data_arrays_0_ext/mem_0_0",
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/dcache/data/data_arrays_0/data_arrays_0_ext/mem_0_2"
+                ],
+                "inst_orientations": [
+                    "r0",
+                    "r0"
+                ]
+            }
+        ]
+    },
+    {
+        "SRAM1RW4096x8_1": [
+            {
+                "layer": "M4",
+                "direction": "horizontal",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "offset": -9648,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/dcache/data/data_arrays_0/data_arrays_0_ext/mem_0_3"
+                ],
+                "inst_orientations": [
+                    "r0"
+                ]
+            },
+            {
+                "layer": "M5",
+                "direction": "vertical",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/dcache/data/data_arrays_0/data_arrays_0_ext/mem_0_3"
+                ],
+                "inst_orientations": [
+                    "r0"
+                ]
+            }
+        ]
+    },
+    {
+        "SRAM1RW1024x32": [
+            {
+                "layer": "M4",
+                "direction": "horizontal",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "offset": -1192,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/frontend/icache/data_arrays_0_0/data_arrays_0_0_ext/mem_0_0"
+                ],
+                "inst_orientations": [
+                    "my"
+                ]
+            },
+            {
+                "layer": "M5",
+                "direction": "vertical",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/frontend/icache/data_arrays_0_0/data_arrays_0_0_ext/mem_0_0"
+                ],
+                "inst_orientations": [
+                    "my"
+                ]
+            }
+        ]
+    },
+    {
+        "SRAM1RW64x21": [
+            {
+                "layer": "M4",
+                "direction": "horizontal",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "offset": -7920,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/frontend/icache/tag_array_0/tag_array_0_ext/mem_0_0"
+                ],
+                "inst_orientations": [
+                    "my"
+                ]
+            },
+            {
+                "layer": "M5",
+                "direction": "vertical",
+                "net_order": [
+                    "VSS",
+                    "VDD"
+                ],
+                "width": 864,
+                "spacing": 288,
+                "group_pitch": 10752,
+                "inst_paths": [
+                    "ChipTop/system/tile_prci_domain/tile_reset_domain_tile/frontend/icache/tag_array_0/tag_array_0_ext/mem_0_0"
+                ],
+                "inst_orientations": [
+                    "my"
+                ]
+            }
+        ]
+    }
+]

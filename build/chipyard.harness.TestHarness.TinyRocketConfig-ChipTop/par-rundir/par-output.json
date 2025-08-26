@@ -1,0 +1,22 @@
+{
+    "vlsi.builtins.is_complete": false,
+    "par.outputs.output_ilms": [],
+    "par.outputs.output_ilms_meta": "append",
+    "vlsi.inputs.ilms": [],
+    "vlsi.inputs.ilms_meta": "append",
+    "par.outputs.output_gds": "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/ChipTop.gds",
+    "par.outputs.output_netlist": "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/ChipTop.lvs.v",
+    "par.outputs.output_sim_netlist": "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/ChipTop.sim.v",
+    "par.outputs.hcells_list": [],
+    "par.outputs.seq_cells": "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/find_regs_cells.json",
+    "par.outputs.all_regs": "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/find_regs_paths.json",
+    "par.inputs.input_files": [
+        "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/syn-rundir/ChipTop.mapped.v"
+    ],
+    "par.inputs.top_module": "ChipTop",
+    "par.outputs.sdf_file": "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/ChipTop.par.sdf",
+    "par.outputs.spefs": [
+        "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/ChipTop.PVT_0P63V_100C.par.spef",
+        "/home/adi/Desktop/tools/flows/chipyard/vlsi/build/chipyard.harness.TestHarness.TinyRocketConfig-ChipTop/par-rundir/ChipTop.PVT_0P77V_0C.par.spef"
+    ]
+}

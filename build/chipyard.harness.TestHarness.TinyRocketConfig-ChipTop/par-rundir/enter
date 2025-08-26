@@ -1,0 +1,3 @@
+export CADENCE_HOME=""
+export CDS_LIC_FILE=""
+export INNOVUS_BIN="/home/adi/DDI/DDI211/INNOVUS211/bin/innovus"
